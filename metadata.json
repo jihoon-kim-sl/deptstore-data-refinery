@@ -1,0 +1,5 @@
+{
+  "name": "DeptStore Data Refinery",
+  "description": "A specialized data preprocessing platform for Hyundai, Shinsegae, and Lotte department stores. Upload CSV/XLSX, use AI to identify key columns, and export refined CSV files.",
+  "requestFramePermissions": []
+}
