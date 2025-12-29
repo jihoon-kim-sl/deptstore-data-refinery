@@ -34,7 +34,7 @@ function App() {
         
         <div className="mb-8">
            <h2 className="text-2xl font-bold text-gray-900">데이터 처리 대시보드</h2>
-           <p className="text-gray-500 mt-1">처리할 백화점을 선택하고 데이터를 업로드하세요.</p>
+           <p className="text-gray-500 mt-1">처리할 백화점을 선택하고 데이터를 업로드하세요ㅋㅋㅋ</p>
         </div>
 
         {/* Tab Navigation */}
